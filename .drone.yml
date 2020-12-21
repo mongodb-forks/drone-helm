@@ -9,7 +9,7 @@ platform:
 
 workspace:
   base: /go
-  path: /src/github.com/mongodb-forks/drone-helm
+  path: /go/src/github.com/mongodb-forks/drone-helm
 
 steps:
   - name: deps
